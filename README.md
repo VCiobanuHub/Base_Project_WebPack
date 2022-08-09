@@ -5,6 +5,11 @@
 This project was made with react 18.1.0, and will not work with version 16.16.0 LTS
 ```
 
+```bash
+#Live Demo!
+https://glittery-khapse-601533.netlify.app/
+```
+
 
 Terminal commands:
 
@@ -54,9 +59,4 @@ https://base64.guru/converter/encode/image/ico
 npm i -D clean-webpack-plugin
 ```
 
-
-```bash
-Travel Api  Live Demo
-https://glittery-khapse-601533.netlify.app/
-```
 
