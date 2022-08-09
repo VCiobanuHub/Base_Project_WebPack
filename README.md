@@ -1,5 +1,11 @@
 ﻿# Clean_Project
 
+```bash
+#NOTE!
+This project was made with react 18.1.0, and will not work with version 16.16.0 LTS
+```
+
+
 Terminal commands:
 
 ```bash
